@@ -1,0 +1,45 @@
+.app-header {
+    background-color: purple;
+    height: 70px;
+    padding: 11px;
+}
+
+.login-button {
+    float: right;
+}
+
+.app-name {
+
+    font-size: 25px;
+    color: white;
+    font-weight: 600;
+    padding-left: 17px;
+    vertical-align: top;
+}
+
+
+.app-logo {
+    height: 35px;
+    background: #ff7f7f;
+}
+
+.bookshow-button {
+    float: right;
+    margin-right: 8px;
+}
+
+.tabs {
+    margin-bottom: 20px;
+}
+
+.dispNone {
+    display: none;
+}
+
+.dispBlock {
+    display: block;
+}
+
+.red {
+    color: red;
+}
